@@ -11,4 +11,6 @@ $ rails server
 
 www.vcap.me:3000/users
 
-subdomain.vcap.me/projects
+subdomain.vcap.me:3000/projects
+
+[Örnek Videosu](https://youtu.be/FiGX4s6taCQ)
